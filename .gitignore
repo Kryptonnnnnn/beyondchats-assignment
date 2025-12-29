@@ -1,0 +1,17 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Laravel
+/vendor/
+.env
+storage/*.key
+storage/logs/
+storage/framework/
+bootstrap/cache/
+
+# React
+dist/
+
+# OS
+.DS_Store
