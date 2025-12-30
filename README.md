@@ -188,7 +188,7 @@ http://localhost:5173
 
 🌍 Live Demo
 
-👉 Frontend Live Link: (Add Vercel link here)
+👉 Frontend Live Link: ()
 👉 Backend: Local / API-based (as required)
 
 ✅ Assignment Completion Checklist
